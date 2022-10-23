@@ -1,0 +1,4 @@
+If you are planning to prepare flask enviorment in docker do the following things
+Install Docker on your machine
+Once it is install succcefully then pull any ubuntu or flast based images from docker hub repository
+If it is plain ubuntu image is there then you need to install flask in it by taking remote access of container which you just created with the help of ubuntu images
